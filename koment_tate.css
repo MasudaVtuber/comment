@@ -59,6 +59,7 @@
     2px -2px var(--font-bold) var(--shadow-color),
     -2px -2px var(--font-bold) var(--shadow-color);
 
+    
   width: fit-content;
   min-width: 180px;
 
@@ -77,7 +78,7 @@
 /* アイコン */
 #content.yt-live-chat-text-message-renderer::before {
   content: "";
-  background-image: url('https://raw.githubusercontent.com/MasudaVtuber/comment/main/wi/3.svg');
+  background-image: url('https://raw.githubusercontent.com/MasudaVtuber/comment/main/wi/4.svg');
   width: 40px;
   height: 40px;
   position: absolute;
@@ -87,6 +88,9 @@
   animation: icon 1.0s;
   animation-fill-mode: forwards;
   opacity: 1;
+
+  
+  
 }
 
 yt-live-chat-text-message-renderer {
