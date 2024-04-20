@@ -77,7 +77,7 @@
 /* アイコン */
 #content.yt-live-chat-text-message-renderer::before {
   content: "";
-  background-image: url('https://github.com/tsuko111d0me/comment/raw/main/image/booth07/rabbit_blue.svg');
+  background-image: url('https://raw.githubusercontent.com/MasudaVtuber/comment/main/wi/2.svg');
   width: 32px;
   height: 40px;
   position: absolute;
