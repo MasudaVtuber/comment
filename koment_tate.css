@@ -77,8 +77,8 @@
 /* アイコン */
 #content.yt-live-chat-text-message-renderer::before {
   content: "";
-  background-image: url('https://raw.githubusercontent.com/MasudaVtuber/comment/main/wi/2.svg');
-  width: 32px;
+  background-image: url('https://raw.githubusercontent.com/MasudaVtuber/comment/main/wi/3.svg');
+  width: 40px;
   height: 40px;
   position: absolute;
   top: 0;
